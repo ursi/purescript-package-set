@@ -4,7 +4,7 @@
 	, repo = "https://github.com/ursi/purescript-debug"
 	, version = "v0.2.0"
 	}
- mason-prelude =
+, mason-prelude =
 	{ dependencies =
 		[ "arrays"
 		, "debug"
