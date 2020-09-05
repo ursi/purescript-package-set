@@ -2,6 +2,6 @@
 	{ dependencies =
 		[ "prelude", "unsafe-coerce" ]
 	, repo = "https://github.com/ursi/purescript-debug"
-	, version = "v0.1.0"
+	, version = "v0.2.0"
 	}
 }
