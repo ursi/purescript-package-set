@@ -11,6 +11,7 @@
     , "functions"
     , "lists"
     , "math"
+    , "point-free"
     , "prelude"
     , "tuples"
     , "unfoldable"
