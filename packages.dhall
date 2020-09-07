@@ -18,6 +18,11 @@
   , repo = "https://github.com/ursi/purescript-mason-prelude"
   , version = "master"
   }
+, point-free =
+  { dependencies = [ "prelude" ]
+  , repo = "https://github.com/ursi/purescript-point-free"
+  , version = "v0.1.0"
+  }
 , whatwg-html =
   { dependencies = [ "mason-prelude", "nullable" ]
   , repo = "https://github.com/ursi/purescript-whatwg-html"
