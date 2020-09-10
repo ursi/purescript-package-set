@@ -1,7 +1,7 @@
 { debug =
   { dependencies = [ "prelude", "unsafe-coerce" ]
   , repo = "https://github.com/ursi/purescript-debug"
-  , version = "v0.2.0"
+  , version = "master"
   }
 , mason-prelude =
   { dependencies =
@@ -22,7 +22,7 @@
 , point-free =
   { dependencies = [ "prelude" ]
   , repo = "https://github.com/ursi/purescript-point-free"
-  , version = "v0.1.0"
+  , version = "master"
   }
 , whatwg-html =
   { dependencies = [ "mason-prelude", "nullable" ]
