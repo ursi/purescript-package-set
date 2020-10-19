@@ -23,7 +23,7 @@
 , mason-prelude =
   { dependencies =
     [ "arrays"
-    , "debug"
+    , "debuggest"
     , "either"
     , "functions"
     , "integers"
