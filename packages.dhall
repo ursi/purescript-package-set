@@ -1,7 +1,7 @@
-{ debug =
+{ debuggest =
   { dependencies = [ "prelude", "unsafe-coerce" ]
-  , repo = "https://github.com/ursi/purescript-debug.git"
-  , version = "v0.3.0"
+  , repo = "https://github.com/ursi/purescript-debuggest.git"
+  , version = "v0.3.1"
   }
 , mason-prelude =
   { dependencies =
