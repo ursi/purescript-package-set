@@ -1,6 +1,6 @@
-{ debug =
+{ debuggest =
   { dependencies = [ "prelude", "unsafe-coerce" ]
-  , repo = "https://github.com/ursi/purescript-debug.git"
+  , repo = "https://github.com/ursi/purescript-debuggest.git"
   , version = "master"
   }
 , elmish =
