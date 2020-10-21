@@ -44,6 +44,11 @@
   , repo = "https://github.com/ursi/purescript-point-free.git"
   , version = "master"
   }
+, task =
+  { dependencies = [ "mason-prelude" ]
+  , repo = "https://github.com/ursi/purescript-task.git"
+  , version = "master"
+  }
 , whatwg-html =
   { dependencies = [ "mason-prelude", "nullable" ]
   , repo = "https://github.com/ursi/purescript-whatwg-html.git"
