@@ -20,6 +20,11 @@
   , repo = "https://github.com/ursi/purescript-elmish.git"
   , version = "master"
   }
+, ffi-options =
+  { dependencies = [] : List Text
+  , repo = "https://github.com/ursi/purescript-ffi-options.git"
+  , version = "master"
+  }
 , mason-prelude =
   { dependencies =
     [ "arrays"
