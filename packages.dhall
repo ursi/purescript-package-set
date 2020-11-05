@@ -39,6 +39,7 @@
     , "parallel"
     , "point-free"
     , "prelude"
+    , "strings"
     , "tuples"
     , "unfoldable"
     ]
