@@ -56,6 +56,19 @@
   , repo = "https://github.com/ursi/purescript-task.git"
   , version = "master"
   }
+, task-http =
+  { dependencies =
+    [ "argonaut"
+    , "foreign-object"
+    , "mason-prelude"
+    , "node-buffer"
+    , "nullable"
+    , "ordered-collections"
+    , "task"
+    ]
+  , repo = "https://github.com/ursi/purescript-task-http.git"
+  , version = "master"
+  }
 , whatwg-html =
   { dependencies = [ "mason-prelude", "nullable" ]
   , repo = "https://github.com/ursi/purescript-whatwg-html.git"
