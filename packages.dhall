@@ -62,9 +62,9 @@
     , "foreign-object"
     , "mason-prelude"
     , "node-buffer"
-    , "nullable"
     , "ordered-collections"
     , "task"
+    , "undefinable"
     ]
   , repo = "https://github.com/ursi/purescript-task-http.git"
   , version = "master"
