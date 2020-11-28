@@ -70,7 +70,7 @@
   , version = "master"
   }
 , whatwg-html =
-  { dependencies = [ "mason-prelude", "nullable" ]
+  { dependencies = [ "ffi-options", "mason-prelude", "nullable" ]
   , repo = "https://github.com/ursi/purescript-whatwg-html.git"
   , version = "master"
   }
