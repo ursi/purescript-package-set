@@ -65,6 +65,7 @@
     , "ordered-collections"
     , "task"
     , "undefinable"
+    , "web-file"
     ]
   , repo = "https://github.com/ursi/purescript-task-http.git"
   , version = "master"
