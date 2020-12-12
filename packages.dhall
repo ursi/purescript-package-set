@@ -56,6 +56,11 @@
   , repo = "https://github.com/ursi/purescript-task.git"
   , version = "master"
   }
+, task-file =
+  { dependencies = [ "mason-prelude", "node-fs", "task" ]
+  , repo = "https://github.com/ursi/purescript-task-file.git"
+  , version = "master"
+  }
 , task-http =
   { dependencies =
     [ "argonaut"
