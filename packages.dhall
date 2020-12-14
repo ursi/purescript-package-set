@@ -75,6 +75,11 @@
   , repo = "https://github.com/ursi/purescript-task-http.git"
   , version = "master"
   }
+, task-node-child-process =
+  { dependencies = [ "mason-prelude", "node-child-process", "task" ]
+  , repo = "https://github.com/ursi/purescript-task-node-child-process.git"
+  , version = "master"
+  }
 , whatwg-html =
   { dependencies = [ "ffi-options", "mason-prelude", "nullable" ]
   , repo = "https://github.com/ursi/purescript-whatwg-html.git"
