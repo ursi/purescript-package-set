@@ -52,7 +52,7 @@
   , version = "master"
   }
 , task =
-  { dependencies = [ "mason-prelude" ]
+  { dependencies = [ "mason-prelude", "js-timers" ]
   , repo = "https://github.com/ursi/purescript-task.git"
   , version = "master"
   }
