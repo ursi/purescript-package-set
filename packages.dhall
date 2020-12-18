@@ -51,6 +51,11 @@
   , repo = "https://github.com/ursi/purescript-point-free.git"
   , version = "master"
   }
+, substitute =
+  { dependencies = [ "foreign-object", "mason-prelude" ]
+  , repo = "https://github.com/ursi/purescript-substitute.git"
+  , version = "master"
+  }
 , task =
   { dependencies = [ "mason-prelude", "js-timers" ]
   , repo = "https://github.com/ursi/purescript-task.git"
