@@ -57,7 +57,7 @@
   , version = "master"
   }
 , substitute =
-  { dependencies = [ "foreign-object", "mason-prelude" ]
+  { dependencies = [ "foreign-object", "mason-prelude", "return" ]
   , repo = "https://github.com/ursi/purescript-substitute.git"
   , version = "master"
   }
